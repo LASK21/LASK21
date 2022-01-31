@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Laura's website
 
 You can use the [editor on GitHub](https://github.com/LASK21/LASK21/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
