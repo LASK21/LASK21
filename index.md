@@ -4,7 +4,7 @@
 
 This is Laura Kobs
 
-![CV](https://github.com/LASK21/LASK21/blob/666fe1fe179849e074e6a79c7c9d22a22b3d6279/Assignment%20Reading%201.docx)
+![Assignemnt Reading 1](https://github.com/LASK21/LASK21/blob/666fe1fe179849e074e6a79c7c9d22a22b3d6279/Assignment%20Reading%201.docx)
 
 ### Markdown
 
