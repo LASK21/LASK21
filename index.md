@@ -1,6 +1,6 @@
 ## Welcome to Laura Kobs
 
-![IMG_0515.JPG]
+![IMG_0515.JPG](https://lask21.github.io/LASK21/IMG_0515.JPG)
 
 You can use the [editor on GitHub](https://github.com/LASK21/LASK21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
