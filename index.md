@@ -1,6 +1,6 @@
 ## Welcome to Laura Kobs
 
-![IMG_0515.JPG](https://lask21.github.io/LASK21/IMG_0515.JPG)
+![IMG_0515.JPG](https://github.com/LASK21/LASK21/blob/aefe23c5d84036dcd953fc47698c6bed3b356868/IMG_0515.JPG)
 
 This is Laura Kobs
 
