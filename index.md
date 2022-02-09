@@ -1,5 +1,11 @@
 ## Welcome to Laura Kobs
 
+![IMG_0515.JPG](https://github.com/LASK21/LASK21/blob/aefe23c5d84036dcd953fc47698c6bed3b356868/IMG_0515.JPG)
+
+This is Laura Kobs
+
+![Assignemnt Reading 1](https://github.com/LASK21/LASK21/blob/666fe1fe179849e074e6a79c7c9d22a22b3d6279/Assignment%20Reading%201.docx)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
