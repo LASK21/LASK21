@@ -4,7 +4,11 @@
 
 This is Laura Kobs
 
-![Assignemnt Reading 1](https://github.com/LASK21/LASK21/blob/666fe1fe179849e074e6a79c7c9d22a22b3d6279/Assignment%20Reading%201.docx)
+![Assignment 1](file:///C:/Users/merry/Documents/Assignment%20Reading%201.htm)
+
+![Assignment 2](file:///C:/Users/merry/Documents/Assignment%202.htm)
+
+![Assignment 3]()
 
 ### Markdown
 
